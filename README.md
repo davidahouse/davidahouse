@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi I'm David!
 
-<!--
-**davidahouse/davidahouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Developer. Maker. Learner. He/him.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Follow my blog at [davidahouse.com](https://www.davidahouse.com)
+- 🐦 Follow me on twitter [@davidahouse](https://www.twitter.com/davidahouse)
+
+---
+
+## Some of my active projects here on GitHub
+
+- Stampede Server (a CI/CD platform) [stampede-server](https://github.com/davidahouse/stampede-server)
+- Stampede App (a mobile app companion for the Stampede CI/CD server) [stampede-app](https://github.com/davidahouse/stampede-app)
+- XCResultKit (a Swift package for parsing XCResult files)
+
+---
+
+<img align="left" alt="davidahouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidahouse&show_icons=true&hide_border=true" />
