@@ -13,8 +13,10 @@
 
 - Stampede Server (a CI/CD platform) [stampede-server](https://github.com/davidahouse/stampede-server)
 - Stampede App (a mobile app companion for the Stampede CI/CD server) [stampede-app](https://github.com/davidahouse/stampede-app)
-- XCResultKit (a Swift package for parsing XCResult files)
+- XCResultKit (a Swift package for parsing XCResult files) [XCResultKit](https://github.com/davidahouse/XCResultKit)
 
 ---
 
 <img align="left" alt="davidahouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidahouse&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidahouse)](https://github.com/anuraghazra/github-readme-stats)
