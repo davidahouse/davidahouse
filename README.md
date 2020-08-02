@@ -19,4 +19,4 @@
 
 <img align="left" alt="davidahouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidahouse&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidahouse)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidahouse&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
